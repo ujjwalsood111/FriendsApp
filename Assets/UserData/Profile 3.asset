@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47d89a6cb88d7aa42986b5c28bac6ad0, type: 3}
+  m_Name: Profile 3
+  m_EditorClassIdentifier: 
+  postId: post_riya_sharma
+  username: Riya Sharma
+  profilePic: {fileID: 21300000, guid: 2ce538ce9de82476ca1f16a3ec189cae, type: 3}
+  contactImage: {fileID: 21300000, guid: fac1178246de4a544af5019e0d37e905, type: 3}
+  contactText: "UI design is my favorite part of game dev \u2728"
